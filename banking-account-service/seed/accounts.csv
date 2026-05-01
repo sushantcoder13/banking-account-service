@@ -1,0 +1,6 @@
+account_id,customer_id,customer_name,account_number,account_type,balance,currency,status
+1,1,Rahul Sharma,ACC1001,SAVINGS,75000.00,INR,ACTIVE
+2,2,Priya Mehta,ACC1002,SAVINGS,60000.00,INR,ACTIVE
+3,3,Amit Verma,ACC1003,BASIC,10000.00,INR,ACTIVE
+4,4,Neha Iyer,ACC1004,CURRENT,250000.00,INR,ACTIVE
+5,5,Karan Singh,ACC1005,BASIC,5000.00,INR,FROZEN
